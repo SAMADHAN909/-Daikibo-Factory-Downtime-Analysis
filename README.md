@@ -50,4 +50,10 @@ This Power BI dashboard provides a comprehensive analysis of machine downtime ac
 3. Identify machines needing urgent maintenance or replacement.
 4. Use insights to optimize factory uptime and efficiency.
 
----
+
+📬 Contact
+🔗 Connect With Me [ SAMADHAN AHIRE ]
+ LINKDIN :- [ https://www.linkedin.com/in/samadhan-ahire-946592364/ ]
+ GITHUB :- [ https://github.com/SAMADHAN909 ]
+Email: [samadhan0325@gmail.com]
+
